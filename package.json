@@ -40,7 +40,7 @@
     "pngquant-bin": "^7.0.2",
     "pretty-bytes": "^5.6.0",
     "round10": "^1.0.3",
-    "svgo": "^2.8.0",
+    "svgo": "^4.0.1",
     "through2-concurrent": "^2.0.0",
     "zopflipng-bin": "^7.1.0"
   },
